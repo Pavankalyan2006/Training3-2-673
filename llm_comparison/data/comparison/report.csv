@@ -1,0 +1,5 @@
+Model,Prompt,Response,Timestamp
+ChatGPT,hello,"Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}",2026-01-02 15:15:11
+Gemini,hello,Hello! How can I help you today?,2026-01-02 15:15:11
+Claude,hello,"Error: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CWiLSxJ1onjdf5DHXu6mz'}",2026-01-02 15:15:11
+LLaMA,hello,"Error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond",2026-01-02 15:15:11

@@ -1,0 +1,6 @@
+Model,Prompt,Response,Timestamp
+ChatGPT,cm of andhra pradesh,"Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: k_018839*********************************************************nlbw. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",2026-02-05 01:07:09
+Gemini,cm of andhra pradesh,"The current Chief Minister of Andhra Pradesh is **Y. S. Jagan Mohan Reddy**.
+
+He assumed office on May 30, 2019, and is the leader of the YSR Congress Party (YSRCP).",2026-02-05 01:07:09
+LLaMA,cm of andhra pradesh, HF_API_KEY not found,2026-02-05 01:07:09
